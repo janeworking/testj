@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 cokef  by web github
+=======
+efefw  ocnt<html>
+>>>>>>> page
